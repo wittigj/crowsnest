@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PhoneStatus" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#3b82f6</item>
+        <item name="colorPrimaryVariant">#2563eb</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#10b981</item>
+        <item name="android:windowBackground">#f8fafc</item>
+        <item name="android:statusBarColor">#f8fafc</item>
+        <item name="android:navigationBarColor">#f8fafc</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
